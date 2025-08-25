@@ -12,7 +12,7 @@ After swap: 14 7
 
 */
 
-/*#include <stdio.h>
+#include <stdio.h>
 int main()
 {
     int Num1,Num2,Num3;
@@ -29,7 +29,7 @@ int main()
     
     printf("After swap: %d %d\n",Num1,Num2);
     return 0;
-}*/
+}
 
 /*Q8: Write a program to find and display the sum of the first n natural numbers.
 Sample Test Cases:
