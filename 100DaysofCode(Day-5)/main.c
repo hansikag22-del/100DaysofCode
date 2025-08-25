@@ -12,7 +12,7 @@ Simple Interest=1050, Compound Interest=1125.76
 
 */
 
-/*#include <stdio.h>
+#include <stdio.h>
 #include <math.h>
 int main()
 {
@@ -30,7 +30,7 @@ int main()
     CompoundInterest = principal * pow((1 + rate /100),time)-principal;
     printf("Simple Interest=%.2f, Compund Interest=%.2f\n",SimpleInterest,CompoundInterest);
     return 0;
-}*/
+}
 
 /*Q10: Write a program to input time in seconds and convert it to hours:minutes:seconds format.
 Sample Test Cases:
