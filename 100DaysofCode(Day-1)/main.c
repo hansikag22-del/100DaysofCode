@@ -10,18 +10,18 @@
 //Output 2:
 //Sum = 19
 
-//#include <stdio.h>
-//int main()
-//{
- //   int num1, num2, sum;
- //   printf("Enter 1st Number");
-  //  scanf("%d",&num1);
- //   printf("Enter 2nd Number");
- //   scanf("%d",&num2);
-  //  sum=num1+num2;
-  //  printf("The sum of numbers is:%d\n",sum);
-  // return 0;
-//}
+#include <stdio.h>
+int main()
+{
+    int num1, num2, sum;
+    printf("Enter 1st Number");
+    scanf("%d",&num1);
+    printf("Enter 2nd Number");
+    scanf("%d",&num2);
+    sum=num1+num2;
+    printf("The sum of numbers is:%d\n",sum);
+   return 0;
+}
 
 //Q2: Write a program to input two numbers and display their sum, difference, product, and quotient.
 //Sample Test Cases:
