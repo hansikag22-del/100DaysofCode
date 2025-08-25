@@ -8,11 +8,10 @@ Fahrenheit=32
 Input 2:
 100
 Output 2:
-Fahrenheit=212
+Fahrenheit=212*/
 
-*/
 
-/*#include <stdio.h>
+#include <stdio.h>
 int main()
 {
     int temp_in_c,temp_in_far;
@@ -22,7 +21,7 @@ int main()
     printf("Fahrenheit=%d\n",temp_in_far);
     return 0;
     
-}*/
+}
 
 /*Q6: Write a program to swap two numbers using a third variable.
 Sample Test Cases:
