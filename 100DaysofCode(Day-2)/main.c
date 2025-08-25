@@ -9,27 +9,25 @@
 //Output 2:
 //Area=21, Perimeter=20
 
-//#include <stdio.h>
+#include <stdio.h>
 
-//int main()
-//{
+int main()
+{
     
- //   float length,width,area,perimeter;
+    float length,width,area,perimeter;
+    printf("Enter the length of rectangle:");
+    scanf("%f",&length);
+    printf("Enter the width of rectangle:");
+    scanf("%f",&width);
     
-//    printf("Enter the length of rectangle:");
- //   scanf("%f",&length);
+    area = length * width;
+    perimeter = 2 * (length + width);
     
-//    printf("Enter the width of rectangle:");
-//    scanf("%f",&width);
+    printf("\nArea of the rectangle: %.2f\n",area);
+    printf("Perimeter of the rectangle:%.2f\n",perimeter);
     
-//    area = length * width;
-//    perimeter = 2 * (length + width);
-    
-//    printf("\nArea of the rectangle: %.2f\n",area);
-//    printf("Perimeter of the rectangle:%.2f\n",perimeter);
-    
-//    return 0;
-//}
+    return 0;
+}
 
 //Q4: Write a program to calculate the area and circumference of a circle given its radius.
 //Sample Test Cases:
