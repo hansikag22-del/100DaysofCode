@@ -13,3 +13,21 @@ Output 2:
 Approximate sum: 4.4
 
 */
+
+#include <stdio.h>
+
+int main() {
+    int n;
+    scanf("%d", &n);
+
+    float sum = 0.0;
+    for (int i = 1; i <= n; i++) {
+        int num = 2 * i - 1;   // numerator
+        int den = i + 1;       // denominator
+        sum += (float)num / den;
+    }
+
+    printf("Approximate sum: %.1f", sum);
+    return 0;
+}
+
