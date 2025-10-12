@@ -36,7 +36,5 @@ int main(){
     }
 
     printf("Bill: ₹%d\n", bill);
-    #include <stdio.h>
 
- 
 }
