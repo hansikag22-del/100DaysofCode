@@ -1,14 +1,19 @@
 ✨ Daily Challenge – 100 Days of Code (UPES) ✨
 
-Students Instructions
+100 Days of Code – C Language Learning Challenge 
 
-1.Copy the question statement by clicking the  icon next to the question.
-2.Paste it as a comment at the top of your program.
-3.Write your code below the comment.
-4.Run your code on the provided Sample Test Cases and verify the output.
-5.Push the verified solution to your GitHub repository.
-5.Your GitHub account will be checked on a weekly basis.
-6.On completion post your progress on LinkedIn using #100DaysofCode.
-7.Submit your progress via the form after completing every 10 questions. Submission date will be considered crucial for marking.
-8.Form Link
-9.Please prioritize this process.
+This is Day 1 of my 100 Days of Code challenge, dedicated entirely to learning and mastering the C programming language. Over the next several weeks, I’m committing to writing code every day, improving my problem-solving abilities, and strengthening my understanding of core programming concepts.
+
+
+My learning plan includes:
+• Understanding C fundamentals and syntax
+• Working with variables, operators, and control statements
+• Building functions and exploring recursion
+• Mastering arrays, strings, pointers, and structures
+• Learning about dynamic memory allocation
+• Exploring file handling and modular programming
+• Solving daily coding problems to sharpen logic
+
+By documenting everything publicly, I aim to stay consistent, accountable, and motivated. I hope this journey not only helps me grow but also inspires others who are learning to code. If you're also on a similar path, let’s connect and support one another.
+
+Here’s to 100 days of learning, coding, improving, and becoming a better programmer.
